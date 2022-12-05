@@ -10,7 +10,7 @@ public class Day3 {
 
         int total = 0;
 
-        /* //Part 1
+        /* Part 1
         while(scanner.hasNextLine()){
             String line = scanner.nextLine();
 
